@@ -1,0 +1,4 @@
+ubaidillah- 2 obstacles,object movement , GDD
+Ryan- Character movement,GDD
+Marzuqi- 1 obstacles , GDD
+junyuan- Scenemanager,UI interface,GDD
